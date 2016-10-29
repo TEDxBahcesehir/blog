@@ -47,9 +47,13 @@ BODY {
 	top: 0;
 	left: 0;
 	right: 0;
+	background-color: rgba(255,255,255,0.7);
 	-webkit-backdrop-filter: blur(12px);
 	backdrop-filter: blur(12px);
-	background-color:rgba(255,255,255,0.8);
+}
+
+@supports (backdrop-filter: none) or (-webkit-backdrop-filter: none) {
+	.site-header { background-color: transparent; }
 }
 
 .page-content { min-height:99vh; box-sizing:border-box; }
