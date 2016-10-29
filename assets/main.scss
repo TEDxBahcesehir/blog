@@ -50,3 +50,7 @@ BODY {
 	-webkit-backdrop-filter: blur(12px);
 	backdrop-filter: blur(12px);
 }
+
+.page-content { min-height:99vh; box-sizing:border-box; }
+
+A, A.post-link { color:#ee2b06; }
