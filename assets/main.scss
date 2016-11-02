@@ -53,7 +53,7 @@ BODY {
 }
 
 @supports (backdrop-filter: none) or (-webkit-backdrop-filter: none) {
-	.site-header { background-color: transparent; }
+	.site-header { background-color:rgba(255,255,255,0.2); }
 }
 
 .page-content { min-height:99vh; box-sizing:border-box; }
