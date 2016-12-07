@@ -1,5 +1,5 @@
 ---
-title:  "Anadolu Grubu Yeniden Dedi!"
+title:  ""
 subtitle: ""
 author: "Deniz Akın"
 avatar: "img/authors/deniza.png"
