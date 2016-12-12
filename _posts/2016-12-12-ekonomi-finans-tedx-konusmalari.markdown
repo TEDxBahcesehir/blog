@@ -112,4 +112,4 @@ Paranın zaman değerinden veya yatırım yapmaktan ne kadar haberdarız ? Finan
 
       -Toplumlarımız bölünüyor mu ? Küreselleşmeyi tehlikeye atan sebepler arasında yabancı düşmanlığı ve ulusçulukanlayışları gösterilse de, ekonomik sebepler bu durumun neresinde yer alıyor bunu size bırakıyoruz.
 
-![hits](http://hitwebcounter.com/counter/counter.php?page=6554778&style=0025&nbdigits=1&type=page&initCount=0) kez görüntülendi.
+![hits](http://hitwebcounter.com/counter/counter.php?page=6555010&style=0025&nbdigits=1&type=page&initCount=0) kez görüntülendi.

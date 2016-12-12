@@ -19,4 +19,4 @@ Avrupa kıyısında nefes kesen Boğaz manzarasına sahip Shangri-La Bosphorus, 
 
 ### Etkinliğimizde Shangrai-La Bosphorus’u ikinci kez yanımızda görmekten mutluluk duyuyoruz!
 
-![hits](http://hitwebcounter.com/counter/counter.php?page=6554778&style=0025&nbdigits=1&type=page&initCount=0) kez görüntülendi.
+![hits](http://hitwebcounter.com/counter/counter.php?page=6555009&style=0025&nbdigits=1&type=page&initCount=0) kez görüntülendi.

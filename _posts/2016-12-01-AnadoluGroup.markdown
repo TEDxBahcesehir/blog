@@ -16,4 +16,4 @@ Anadolu Grubu’nun temelleri 1950 yılında, Anadolu Grubu Onursal Başkanları
 ###  Etkinliğimizde Anadolu Grubu’nu sponsorumuz olarak tekrar yanımızda görmekten mutluluk duyuyoruz!
 
 
-![hits](http://hitwebcounter.com/counter/counter.php?page=6554778&style=0025&nbdigits=1&type=page&initCount=0) kez görüntülendi.
+![hits](http://hitwebcounter.com/counter/counter.php?page=6555007&style=0025&nbdigits=1&type=page&initCount=0) kez görüntülendi.
