@@ -1,8 +1,8 @@
 ---
 title:  ""
 subtitle: ""
-author: "<a href=//linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orkun Kadıoğlu</a>"
-avatar: "img/authors/orkun.png"
+author: "<a href=//tr.linkedin.com/in/oğuzhan-karan-84b643b9 target=_blank>Oğuzhan Karan</a>"
+avatar: "img/authors/oguzhan.png"
 image: "img/Tedx.jpg"
 date:   2016-12-12 15:42:12
 ---
