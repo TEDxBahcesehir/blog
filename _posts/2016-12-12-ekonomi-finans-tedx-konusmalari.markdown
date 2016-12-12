@@ -7,6 +7,7 @@ image: "img/Tedx.jpg"
 date:   2016-12-12 15:42:12
 ---
 ![hits](http://hitwebcounter.com/counter/counter.php?page=6555010&style=0025&nbdigits=1&type=page&initCount=0) kez görüntülendi.
+
 ### Ekonomi ve Finans İçerikli 10 Konuşma
 İşe veya okula giderken aldığımız kahveden, öğle arasında yediğimiz yemeğe kadar para hayatımızın her anında yer alıyor. Peki para hayatımızın her anına bu kadar dahil olmuşken biz paranın oluşturduğu mevcut ekonomiyi ve finansal piyasaları ne kadar iyi biliyoruz ?
 Paranın zaman değerinden veya yatırım yapmaktan ne kadar haberdarız ? Finansal piyasalar düşündüğümüz kadar karmaşık yapılar mı ? Mevcut sistemlerin oluşturduğu kurallar ve yasalar ne gibi olaylara yol açıyor ? TEDxBahcesehirUnivesity ailesi olarak hazırladığımız 10 ekonomi ve finans içerikli TED ve TEDx konuşmasını izleyerek bu sorulara bazı cevaplar bulabileceğinize inanıyoruz. İyi seyirler.
