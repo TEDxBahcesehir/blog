@@ -1,7 +1,7 @@
 ---
 title:  "Shangri-La Bosphorus yeniden aramızda!"
 subtitle: ""
-author: "Deniz Akın"
+author: "<a href=//tr.linkedin.com/in/deniz-ak%25C4%25B1n-8a9787122 target=_blank>Deniz Akın</a>"
 avatar: "img/authors/deniza.png"
 image: "img/sh.jpg"
 date:   2016-12-06 11:23:12
@@ -18,3 +18,5 @@ Avrupa kıyısında nefes kesen Boğaz manzarasına sahip Shangri-La Bosphorus, 
 
 
 ### Etkinliğimizde Shangrai-La Bosphorus’u ikinci kez yanımızda görmekten mutluluk duyuyoruz!
+
+![hits](http://hitwebcounter.com/counter/counter.php?page=6554778&style=0025&nbdigits=1&type=page&initCount=0) kez görüntülendi.
