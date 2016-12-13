@@ -8,7 +8,7 @@ date:   2016-12-12 15:42:12
 ---
 ![hits](http://guestscounter.com/count.php?c_style=82&id=1481631448) kez görüntülendi.
 
-### Ekonomi ve Finans İçerikli 10 Konuşma
+### Ekonomi ve Finans İçerikli 10 Konuşma
 İşe veya okula giderken aldığımız kahveden, öğle arasında yediğimiz yemeğe kadar para hayatımızın her anında yer alıyor. Peki para hayatımızın her anına bu kadar dahil olmuşken biz paranın oluşturduğu mevcut ekonomiyi ve finansal piyasaları ne kadar iyi biliyoruz ?
 Paranın zaman değerinden veya yatırım yapmaktan ne kadar haberdarız ? Finansal piyasalar düşündüğümüz kadar karmaşık yapılar mı ? Mevcut sistemlerin oluşturduğu kurallar ve yasalar ne gibi olaylara yol açıyor ? TEDxBahcesehirUnivesity ailesi olarak hazırladığımız 10 ekonomi ve finans içerikli TED ve TEDx konuşmasını izleyerek bu sorulara bazı cevaplar bulabileceğinize inanıyoruz. İyi seyirler.
 
@@ -22,7 +22,7 @@ Paranın zaman değerinden veya yatırım yapmaktan ne kadar haberdarız ? Finan
 
     -Ekonomik büyüme olmadan ne refah artışından ne de hizmet kalitesinden söz edebiliriz. Peki mevcut sistem gerçek sorunlarımıza ne kadar çözüm üretebiliyor ?
 
-2- **Mariana Mazzucato:** Devlet - yatırımcı, risk alıcı, yenilikçi
+2- **Mariana Mazzucato:** | Devlet - yatırımcı, risk alıcı, yenilikçi
 <iframe
    width="532"
    height="400"
@@ -32,7 +32,7 @@ Paranın zaman değerinden veya yatırım yapmaktan ne kadar haberdarız ? Finan
 
      -Bazıları “Devlet ticaret yapmamalı” derken bazıları da “Devlet ticari hayatın içinde yer almalı ki ekonomik büyüme gerçekleşsin” diyor. Peki devletlerin mevcut ekonomik sistemdeki rolü nedir ?
 
-3- **Annette Heuser:** Ekonomileri yapma ve yıkma gücüne sahip 3 kuruluş
+3- **Annette Heuser:** | Ekonomileri yapma ve yıkma gücüne sahip 3 kuruluş
 <iframe
    width="532"
    height="400"
@@ -44,7 +44,7 @@ Paranın zaman değerinden veya yatırım yapmaktan ne kadar haberdarız ? Finan
 
 **DİPNOT:** Kredi derecelendirme kuruluşlarının dünya ekonomisine olan etkisini merak edenlerin 2008 finansal krizini araştırmasını öneririz.
 
-4- Why the Rich are Getting Richer | Robert Kiyosaki | TEDxUCSD
+4- **Robert Kiyosaki** | Zenginler neden zenginleşiyor? | TEDxUCSD
 <iframe
    width="532"
    height="400"
@@ -54,7 +54,7 @@ Paranın zaman değerinden veya yatırım yapmaktan ne kadar haberdarız ? Finan
 
       -Kişisel finansal durumumuzu yönetirken mevcut finans bilgimizin önemi nedir ? Finans eğitiminin gelir dağılımı ile ilişkisi nedir ?
 
-5- **Chris McKnett:** Sürdürülebilirlik için yatırımın mantığı
+5- **Chris McKnett:** | Sürdürülebilirlik için yatırımın mantığı
 <iframe
    width="532"
    height="400"
@@ -64,7 +64,7 @@ Paranın zaman değerinden veya yatırım yapmaktan ne kadar haberdarız ? Finan
 
       -Bir şirkete yatırım yaparken sadece finansal durumunu ve finansal performansını değerlendirmek yeterli midir ? Şirketin sosyal ve çevresel politikalarının yapılan yatırıma etkisi ne olur ?
 
-6- How to make your greatest investment | **Rachel Fox** | TEDxTeen
+6-  **Rachel Fox** En Büyük Yatrırımınız Nasıl Yapılır | TEDxTeen
 <iframe
    width="532"
    height="400"
@@ -74,7 +74,7 @@ Paranın zaman değerinden veya yatırım yapmaktan ne kadar haberdarız ? Finan
 
       -Yatırım yapmanın yaşı var mıdır ? Herkes yatırım yapabilir mi ? Yatırım yapmak için hangi becerilere sahip olmak gerekir ?
 
-7- The psychology of trading | **Alessio Rastani** | TEDxManchester
+7- **Alessio Rastani** Ticaret Psikolojisi | TEDxManchester
 <iframe
    width="532"
    height="400"
@@ -84,7 +84,7 @@ Paranın zaman değerinden veya yatırım yapmaktan ne kadar haberdarız ? Finan
 
       -Yatırım yaparken nasıl bir strateji belirlememiz gerekir ? Yatırım yapmanın belirli bir zamanı var mıdır ?
 
-8- **Victor Haghani** | Where are all the Billionaires? & Why should We Care?
+8- **Victor Haghani** | Milyarderler Nerede? & Neden Önemsemeliyiz?
 <iframe
    width="532"
    height="400"
@@ -94,7 +94,7 @@ Paranın zaman değerinden veya yatırım yapmaktan ne kadar haberdarız ? Finan
 
       -“Active ve Passive Index Investing” nedir ? Aktif olarak işlem yapmak servetimize zararlı mıdır ? “Modern Portfolio Theory” nin önemi nedir ?
 
-9- **Robert Palmer** | The Panama Papers exposed a huge global problem. What's next?
+9- **Robert Palmer** | Panama Gazeteleri Büyük Bir Küresel Problem Yaşadı. Sıradaki Ne?
 <iframe
    width="532"
    height="400"
@@ -104,7 +104,7 @@ Paranın zaman değerinden veya yatırım yapmaktan ne kadar haberdarız ? Finan
 
       -3 Nisan 2016 tarihinde, birçok varlıklı insan ile alakalı bazı belgelerin sızdığını öğrendik. Peki işin gerçeği nedir ?
 
-10-  **Alexander Betts** | Why Brexit happened -- and what to do next
+10-  **Alexander Betts** | Brexit Neden Oldu -- Ve Sonra Ne Yapacağız?
 <iframe
    width="532"
    height="400"
