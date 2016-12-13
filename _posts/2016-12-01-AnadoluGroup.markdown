@@ -6,7 +6,7 @@ avatar: "img/authors/deniza.png"
 image: "img/anadolu.jpg"
 date:   2016-12-01 15:42:12
 ---
-![hits](http://hitwebcounter.com/counter/counter.php?page=6555007&style=0025&nbdigits=1&type=page&initCount=0) kez görüntülendi.
+![hits](http://guestscounter.com/count.php?c_style=82&id=1481632021) kez görüntülendi.
 
 ### Anadolu Grubu  bu yıl üçüncüsü gerçekleşen TEDxBahcesehirUniversity’e tekrar sponsor oldu!
 Bünyesinde Coca Cola İçecek, Mc Donald’s, Migros, Isuzu, Garenta gibi önemli markaları barındıran Anadolu Grubu yeniden ana sponsorlarımızdan.

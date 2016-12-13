@@ -6,7 +6,7 @@ avatar: "img/authors/deniza.png"
 image: "img/oneo.jpg"
 date:   2016-12-08 09:52:23
 ---
-![hits](http://hitwebcounter.com/counter/counter.php?page=6555005&style=0025&nbdigits=1&type=page&initCount=0) kez görüntülendi.
+![hits](http://guestscounter.com/count.php?c_style=82&id=1481631931) kez görüntülendi.
 
 ###  Ülker Oneo ; TEDxBahcesehirUniversity Resmi Ferahlık Sponsoru Oldu!
 

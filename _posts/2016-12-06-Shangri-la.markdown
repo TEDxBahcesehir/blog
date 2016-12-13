@@ -6,7 +6,7 @@ avatar: "img/authors/deniza.png"
 image: "img/sh.jpg"
 date:   2016-12-06 11:23:12
 ---
-![hits](http://hitwebcounter.com/counter/counter.php?page=6555009&style=0025&nbdigits=1&type=page&initCount=0) kez görüntülendi.
+![hits](http://guestscounter.com/count.php?c_style=82&id=1481632068) kez görüntülendi.
 
 ### 8 Nisan 2017 tarihli Zorlu PSM de gerçekleşecek TEDxBahcesehirUniversity etkinliğimizde Shangri-La Bosphorus yeniden aramızda !
 
