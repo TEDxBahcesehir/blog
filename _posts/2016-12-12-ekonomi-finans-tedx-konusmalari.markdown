@@ -1,5 +1,5 @@
 ---
-title:  ""
+title:  "Para ve insan ilişkisini anlamak için izlemeniz gereken 10 TED konuşması"
 subtitle: ""
 author: "<a href=//tr.linkedin.com/in/oğuzhan-karan-84b643b9 target=_blank>Oğuzhan Karan</a>"
 avatar: "img/authors/oguzhan.png"
