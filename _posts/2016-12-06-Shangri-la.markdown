@@ -1,5 +1,5 @@
 ---
-title:  "Shangri-La Bosphorus yeniden aramızda!"
+title:  "Sponsorumuz Shangri-La Bosphorus'u tanıyalım!"
 subtitle: ""
 author: "<a href=//tr.linkedin.com/in/deniz-ak%25C4%25B1n-8a9787122 target=_blank>Deniz Akın</a>"
 avatar: "img/authors/deniza.png"
