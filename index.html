@@ -8,7 +8,7 @@ layout: compress
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>TEDxBahcesehirUniversity</title>
-    <meta property="og:url"           content="http://blog.tedxbahcesehir.com" />
+    <meta property="og:url"           content="http://blog.tedxbahcesehir.com/" />
     <meta property="og:description" content="{{ post.title }}{{ site.description }}"/>
     <meta property="og:type"          content="website" />
     <meta property="og:title"         content="Blog TEDxBahcesehirUniversity" />
@@ -71,8 +71,8 @@ layout: compress
                                 <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
                               </div>
                               <div class="share-widget">
-                                <a class="fa fa-facebook-square fa-2x"href="https://facebook.com/sharer.php?u={{ site.url }}/#{{ post.url }}&related={{post.title}}" rel="nofollow" target="_blank" title="Share on Facebook"></a>
-                                <a class="fa fa-twitter-square fa-2x" href="https://twitter.com/intent/tweet?text={{ post.title }}/#&url={{ site.url }}{{ post.url }}&related={{ post.authors}}" rel="nofollow" target="_blank" title="Share on Twitter"></a>
+                                <a class="fa fa-facebook-square fa-2x"href="https://facebook.com/sharer.php?u={{ site.url }}/%23{{ post.url }}&related={{post.title}}" rel="nofollow" target="_blank" title="Share on Facebook"></a>
+                                <a class="fa fa-twitter-square fa-2x" href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{ site.url }}/%23{{ post.url }}&related={{ post.authors}}" rel="nofollow" target="_blank" title="Share on Twitter"></a>
                               </div>
                             {{ post.content }}
                         </div>
