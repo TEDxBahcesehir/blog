@@ -1,7 +1,0 @@
-# Site settings
-title: TEDxBahcesehirUniversity Blog
-description: TEDxBahcesehirUniversity Blog Website
-keywords: TEDxBahcesehirUniversity, Technology, Entertainment, Design
-author: TEDxBahcesehirUniversity Team Members
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://blog.tedxbahcesehir.com/" # the base hostname & protocol for your site

@@ -1,1 +1,0 @@
-# TEDxBahcesehirUniversity Blog Website 
