@@ -16,13 +16,13 @@ date:   2016-12-12 15:42:12
 
     -Yalana karşı olmamıza rağmen neden hepimiz yalan söyleriz?
 
-	**•	Apollo Robbins:** The art of misdirection
+	**Apollo Robbins:** The art of misdirection
 
   <iframe src="https://embed.ted.com/talks/apollo_robbins_the_art_of_misdirection" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
     -Eski bir “yan kesici”nin anlatımıyla dikkat kontrolünün sırları.
 
-	**•	Cameron Russel:** Looks aren’t everything. Believe me, I’m a model.
+	**Cameron Russel:** Looks aren’t everything. Believe me, I’m a model.
 
   <iframe src="https://embed.ted.com/talks/cameron_russell_looks_aren_t_everything_believe_me_i_m_a_model" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
