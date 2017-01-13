@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oneo 60 dakika ferahlık sponsorumuz oldu."
+title: "TEDxBahcesehirUniversity resmi ferahlık sponsoru Oneo 60 Dakika!"
 date: 2016-12-08
 categories:
   - Sponsor
