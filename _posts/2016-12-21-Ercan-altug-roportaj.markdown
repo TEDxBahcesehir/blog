@@ -2,6 +2,7 @@
 layout: post
 title: "Ercan Altug ile röportaj"
 date: 2016-12-21
+author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orkun Kadıoğlu</a>"
 categories:
   - Hayat
 description:

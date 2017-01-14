@@ -2,6 +2,7 @@
 layout: post
 title: "Para ve insan ilişkisini anlamak için izlemeniz gereken 10 TED konuşması"
 date: 2016-12-12
+author: "<a href=//tr.linkedin.com/in/oğuzhan-karan-84b643b9 target=_blank>Oğuzhan Karan</a>"
 categories:
   - Ekonomi
 description:

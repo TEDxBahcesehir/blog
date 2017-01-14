@@ -2,6 +2,7 @@
 layout: post
 title: "Sponsorumuz Shangri-La Bosphorus'u tanıyalım!"
 date: 2016-12-06
+author: "<a href=//tr.linkedin.com/in/deniz-ak%25C4%25B1n-8a9787122 target=_blank>Deniz Akın</a>"
 categories:
   - Sponsor
 description:
