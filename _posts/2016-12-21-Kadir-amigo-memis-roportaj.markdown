@@ -136,3 +136,7 @@ Cevaplarının altına Kadir abi küçük bir not düşmüş:
 umarım yakında yine sarılmak dileğiyle.
 kadir
 #zeybreak"
+
+**Kadir Amigo Memiş’in TEDxBahçeşehirUniversity konuşması:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RQeuM1xhpOU?list=PLsRNoUx8w3rNvN8yaEFsULkGwqqGCPdM9" frameborder="0" allowfullscreen></iframe>

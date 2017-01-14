@@ -122,3 +122,7 @@ Selamlar! Blogumuza yeni bir konsept getirdik. Geçen sene, etkinliğe katıldı
 
 -Geçtiğimiz ay İngiltere’de ‘Learning Technologies’ konferansında en çok paylaşılan tweet’lerden biri şuydu: ‘Eğitim sektörü olarak Fitness Oyunlaştırmalarından öğreneceğimiz çok şey var’. Şuanda etrafımızda kim hangi konuyu ne kadar biliyor göremiyoruz ancak kaç adım atmış,hangi seviyede spor yapıyor görebileceğimiz mobil telefonumuz,bilekliki saat kullanan fitness uygulamaları var. Evet Fitness yani spor uygulamaları hem rekabet hem işbirliği kurguları,çok güzel deneyimleriyle birlikte oyunlaştırmada öncü durumdalar. Eğitim ve Satış/pazarlama bence onları izliyor. Uzun vadede finans ve sağlık takipçisi olacak. Daha kritiği IOT yani nesnelerin internetiyle evimizden arabamıza, yollarımızdan ülkemize tüm enerji sektörü de devlet yönlendirmesiyle oyunlaştırmaya girmek durumunda. Çin bunun adımlarını edevlet uygulamasında atmaya başladı ve iyi bir deneyim örneği olacak. Faturalarınızı, kiranızı zamanında öderseniz internet hızınız artıyor ve daha düşük faizle kredi çekebiliyorsunuz, hatta daha iyi bir iş teklifi alabiliyorsunuz.
 Evet oyunlaştırma oyunu yeni başlıyor.
+
+**Ercan Altuğ Yılmaz’ın TEDxBahcesehirUniversity konuşması:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pUvbPTpXtVI?list=PLsRNoUx8w3rNvN8yaEFsULkGwqqGCPdM9" frameborder="0" allowfullscreen></iframe>
