@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anadolu Grubunu yeniden bizimle!"
+title: "TEDxBahcesehirUniversity ana sponsoru Anadolu Grubu"
 date: 2017-01-02
 author: "<a href=//tr.linkedin.com/in/deniz-ak%25C4%25B1n-8a9787122 target=_blank>Deniz Akın</a>"
 categories:
