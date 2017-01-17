@@ -36,3 +36,6 @@ gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
 # RRSSB
 facebook: true
 twitter: true
+
+#Facebook Sharing
+facebook_app_id: 842442245898159
