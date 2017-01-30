@@ -15,7 +15,6 @@ image-sm: https://s29.postimg.org/b46kqf3h3/Tedx_jpg.png
 
 Teknoloji ilerledikçe bildiğimiz iş tanımları değişiyor ve üretimde insanlara olan ihtiyaç azalıyor. İnsanların gelecekte ne gibi işlerde çalışacağını ve bizi nelerin beklediğini Andrew McAfee'den dinliyoruz.
 
-**What will future jobs look like? | Andrew McAfee**
 
 <iframe src="https://www.youtube.com/embed/cXQrbxD9_Ng" frameborder="0" allowfullscreen></iframe>
 
@@ -24,16 +23,12 @@ Teknoloji ilerledikçe bildiğimiz iş tanımları değişiyor ve üretimde insa
 
 Gelen kutunuza daha önce servetini ülkesinden kaçırmaya çalışan devrik bir diktatörün akrabalarından veya ne kadar çok kişiye yollarsanız o kadar para kazanacağınızı iddia eden Patricia Teyze'den bir e-posta geldiyse James Veitch'in bu eğlenceli konuşması tam da sizin için.
 
-**This is what happens when you reply to spam email | James Veitch**
-
 <iframe src="https://www.youtube.com/embed/_QdPW8JrYzQ" frameborder="0" allowfullscreen></iframe>
 
 
 **Dizayn (Design) için** ***D***,
 
 Sıradan TED konuşmalarından sıkıldınız ve daha farklı bir şeylere mi ihtiyacınız var? Merak etmeyin TED sahnesinde farklı konuşmacılara da yer var, radyocu Roman Mars bize bayrak bilimi Veksiloloji'den ve genelde çirkin tasarlandıklarını düşündüğü şehir bayraklarından bahsediyor.
-
-**Why city flags may be the worst-designed thing you've never noticed | Roman Mars**
 
 <iframe src="https://www.youtube.com/embed/pnv5iKB2hl4" frameborder="0" allowfullscreen></iframe>
 
