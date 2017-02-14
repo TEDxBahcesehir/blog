@@ -11,7 +11,7 @@ image-sm: https://s27.postimg.org/7sammacdv/banuciftci.jpg
 ---
 ### Banu Çiftçi kimdir?
 
-Operatör Doktor Banu Çiftçi Kadın Hastalıkları ve Doğum Uzmanıdır. 1993-2000 yılları arasında Hacettepe Üniversitesi Tıp Fakültesi’nde eğitim gördü. Uzmanlık eğitimini, Gazi Üniversitesi Tıp Fakültesi’nde Kadın Hastalıkları ve Doğum Anabilim Dalı’nda tamamladı. Eğitimine yurt dışında devam etmek için 2006-2007 yıllarında New York Cornell University, Weill Medical College, Medikal Etik Departmanı ve Tüp Bebek Merkezi’nde gözlemci olarak bulundu. Op. Dr. Banu Çiftçi aynı zamanda “Yeryüzü Doktorları” ve “Tüm Afrika’nın Dostları Derneği” ile gönüllü hekim olarak; 2012’de, Somali Mogadişu’da,  2015’te Kongo DC’de ve 2016’da Uganda’da olmak üzere, sahra altı Afrika’da çok sayıda hasta gördü ve ameliyat gerçekleştirdi. Op. Dr. Banu Çiftçi özel uzmanlık alanına, radyo televizyon sunuculuğu eğitimini de ekledi.
+Operatör Doktor Banu Çiftçi Kadın Hastalıkları ve Doğum Uzmanıdır. 1993-2000 yılları arasında Hacettepe Üniversitesi Tıp Fakültesi’nde eğitim gördü. Uzmanlık eğitimini, Gazi Üniversitesi Tıp Fakültesi’nde Kadın Hastalıkları ve Doğum Anabilim Dalı’nda tamamladı. Eğitimine yurt dışında devam etmek için 2006-2007 yıllarında New York Cornell University, Weill Medical College, Medikal Etik Departmanı ve Tüp Bebek Merkezi’nde gözlemci olarak bulundu. Op. Dr. Banu Çiftçi aynı zamanda “Yeryüzü Doktorları” ve “Tüm Afrika’nın Dostları Derneği” ile gönüllü hekim olarak; 2012’de, Somali Mogadişu’da,  2015’te Kongo DC’de ve 2016’da Uganda’da olmak üzere, sahra altı Afrika’da çok sayıda hasta gördü ve ameliyat gerçekleştirdi. Op. Dr. Banu Çiftçi özel uzmanlık alanına, radyo televizyon sunuculuğunu da ekledi.
 
 Sosyal medya hesaplarına aşağıdaki linklerden ulaşabilirsiniz.
 
@@ -25,4 +25,4 @@ Sosyal medya hesaplarına aşağıdaki linklerden ulaşabilirsiniz.
 
 Etkinlik için biletlere aşağıdaki linkten ulaşabilirsiniz.
 
--[Bilet Al](https://www.biletino.com/event/eventdetail/3262)
+[Bilet Al](https://www.biletino.com/event/eventdetail/3262) <i class="fa fa-external-link" aria-hidden="true"></i>

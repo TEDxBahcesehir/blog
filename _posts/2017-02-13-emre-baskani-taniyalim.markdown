@@ -24,4 +24,4 @@ Sosyal medya hesaplarına aşağıdaki linklerden ulaşabilirsiniz.
 
 Etkinlik için biletlere aşağıdaki linkten ulaşabilirsiniz.
 
--[Bilet Al](https://www.biletino.com/event/eventdetail/3262)
+[Bilet Al](https://www.biletino.com/event/eventdetail/3262) <i class="fa fa-external-link" aria-hidden="true"></i>
