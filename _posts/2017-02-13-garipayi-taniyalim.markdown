@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Garipay'ı Tanıyalım"
+title: "Garip Ay'ı Tanıyalım"
 date: 2017-02-13
 author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orkun Kadıoğlu</a>"
 categories:
@@ -9,7 +9,7 @@ description:
 image: https://s27.postimg.org/8y6y7u803/3_Y9_A3066.jpg
 image-sm: https://s27.postimg.org/8y6y7u803/3_Y9_A3066.jpg
 ---
-### Garipay kimdir?
+### Garip Ay kimdir?
 
 Garip Ay, 1984’te Siirt’te dünyaya geldi. Küçük yaşlardan beri resime ilgiliymiş ve bu da öğrenim hayatına yansımış. 2000 yılında Diyarbakır'da Güzel Sanatlar Lisesinden mezun oldu. Daha sonra Mimar Sinan Üniversitesi’den Geleneksel Türk Sanatları bölümünü dereceyle öğrenimini tamamladı. Garip Ay Türkiye, İskandinavya, Rusya, ABD ve Basra Körfezi bölgesinde sayısız sergiler, atölye çalışmaları ve seminerler düzenledi. Hatta otuz bölümlük bir televizyon belgesel serisi gibi çeşitli projelerde yer almıştır. Ebru sanatını başka boyutlara taşıyıp, kendine has bir bakış açısı getirmiştir.
 
@@ -22,4 +22,8 @@ Sosyal medya hesaplarına aşağıdaki linklerden ulaşabilirsiniz.
 
 -[Facebook](https://www.facebook.com/garipayart)
 
--[İnstagram](https://www.instagram.com/garipay/)
+-[Instagram](https://www.instagram.com/garipay/)
+
+Etkinlik için biletlere aşağıdaki linkten ulaşabilirsiniz.
+
+-[Bilet Al](https://www.biletino.com/event/eventdetail/3262)

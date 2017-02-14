@@ -22,3 +22,7 @@ Sosyal medya hesaplarına aşağıdaki linklerden ulaşabilirsiniz.
 -[İnstagram](https://www.instagram.com/dr.banuciftci/)
 
 -[Youtube](https://www.youtube.com/channel/UCWXz0gXvPpvXoEP-wDD0EbA)
+
+Etkinlik için biletlere aşağıdaki linkten ulaşabilirsiniz.
+
+-[Bilet Al](https://www.biletino.com/event/eventdetail/3262)
