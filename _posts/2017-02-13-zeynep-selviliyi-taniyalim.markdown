@@ -11,7 +11,7 @@ image-sm: https://s29.postimg.org/flxrgn8zr/zeynep_selvili.jpg
 ---
 ### Zeynep Selvili kimdir?
 
-Zeynep Selvili Çarmıklı, 1987 yılında İzmir'de doğdu. 2005 yılında İzmir Saint Joseph Fransız Lisesinden mezun oldu. 2009 yılında Miami Üniversitesini Sinema ve Psikoloji çift ana bilim dalıyla bitirdikten sonra aynı sene New York Üniversitesinin Uygulamalı Psikoloji bölümüne yüksek lisans için kabul oldu. 2012 yılının Mayıs ayında New York Üniversitesinden Psikolojik Danışmanlık ve Sağlık uzmanlığıyla mezun oldu. Uzman Ruh Sağlığı Danışmanı ve Psikoterapist olmanın yanı sıre 2010 yılından beri öz-şefkat üstüne çalışıyor. Ve hala sosyal medyada canlı yayın yapıp, insanların sorularını yanıtlıyor.
+Zeynep Selvili Çarmıklı, 1987 yılında İzmir'de doğdu. 2005 yılında İzmir Saint Joseph Fransız Lisesinden mezun oldu. 2009 yılında Miami Üniversitesini Sinema ve Psikoloji çift ana bilim dalıyla bitirdikten sonra aynı sene New York Üniversitesinin Uygulamalı Psikoloji bölümüne yüksek lisans için kabul oldu. 2012 yılının Mayıs ayında New York Üniversitesinden Psikolojik Danışmanlık ve Sağlık uzmanlığıyla mezun oldu. Uzman Ruh Sağlığı Danışmanı ve Psikoterapist olmanın yanı sıra 2010 yılından beri öz-şefkat üstüne çalışıyor. Ve hala sosyal medyada canlı yayın yapıp, insanların sorularını yanıtlıyor.
 
 Sosyal medya hesaplarına aşağıdaki linklerden ulaşabilirsiniz.
 
