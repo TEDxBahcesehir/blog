@@ -15,7 +15,7 @@ Zeynep Selvili Çarmıklı, 1987 yılında İzmir'de doğdu. 2005 yılında İzm
 
 Sosyal medya hesaplarına aşağıdaki linklerden ulaşabilirsiniz.
 
-<a class="fa fa-lg fa-facebook" href="https://www.facebook.com/zeynepselvilicarmikli/" target="_blank" ></a>
+<a class="fa fa-lg fa-facebook-square" href="https://www.facebook.com/zeynepselvilicarmikli/" target="_blank" ></a>
 &nbsp;
 <a class="fa fa-lg fa-twitter"
 href="https://twitter.com/zeynepselvili?lang=en" target="_blank" ></a>

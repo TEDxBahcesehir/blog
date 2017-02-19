@@ -15,7 +15,7 @@ Operatör Doktor Banu Çiftçi Kadın Hastalıkları ve Doğum Uzmanıdır. 1993
 
 Sosyal medya hesaplarına aşağıdaki linklerden ulaşabilirsiniz.
 
-<a class="fa fa-lg fa-facebook"
+<a class="fa fa-lg fa-facebook-square"
 href="http://facebook.com/op.dr.banuciftci/" target="_blank" ></a>
 &nbsp;
 <a class="fa fa-lg fa-twitter"

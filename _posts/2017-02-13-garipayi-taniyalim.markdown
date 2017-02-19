@@ -20,7 +20,7 @@ En bilinen çalışmalarından birini aşağıda bulabilirsiniz:
 
 Sosyal medya hesaplarına aşağıdaki linklerden ulaşabilirsiniz.
 
-<a class="fa fa-lg fa-facebook"
+<a class="fa fa-lg fa-facebook-square"
 href="https://www.facebook.com/garipayart" target="_blank" ></a>
 &nbsp;
 <a class="fa fa-lg fa-instagram"
