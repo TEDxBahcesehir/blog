@@ -20,10 +20,12 @@ En bilinen çalışmalarından birini aşağıda bulabilirsiniz:
 
 Sosyal medya hesaplarına aşağıdaki linklerden ulaşabilirsiniz.
 
--[Facebook](https://www.facebook.com/garipayart)
-
--[Instagram](https://www.instagram.com/garipay/)
+<a class="fa fa-lg fa-facebook"
+href="https://www.facebook.com/garipayart" target="_blank" ></a>
+&nbsp;
+<a class="fa fa-lg fa-instagram"
+href="https://www.instagram.com/garipay/" target="_blank" ></a>
 
 Etkinlik için biletlere aşağıdaki linkten ulaşabilirsiniz.
 
-[Bilet Al](https://www.biletino.com/event/eventdetail/3262) <i class="fa fa-external-link" aria-hidden="true"></i>
+<i class="fa fa-lg fa-ticket" aria-hidden="true"></i>&nbsp; [Bilet Al](https://www.biletino.com/event/eventdetail/3262)

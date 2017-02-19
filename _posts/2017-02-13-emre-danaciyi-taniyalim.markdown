@@ -15,10 +15,13 @@ Emre Danacı’nın kurucu ortağı olduğu Yuvarla, mağazalarda gördüğümü
 
 Sosyal medya hesaplarına aşağıdaki linklerden ulaşabilirsiniz.
 
--[Twitter](https://twitter.com/emredanaci?lang=en)
 
--[Linkedin](https://www.linkedin.com/in/emredanaci/)
+<a class="fa fa-lg fa-twitter"
+href="https://twitter.com/emredanaci?lang=en" target="_blank" ></a>
 
+<a class="fa fa-lg fa-linkedin"
+href="https://www.linkedin.com/in/emredanaci/" target="_blank" ></a>
+&nbsp;
 Etkinlik için biletlere aşağıdaki linkten ulaşabilirsiniz.
 
-[Bilet Al](https://www.biletino.com/event/eventdetail/3262) <i class="fa fa-external-link" aria-hidden="true"></i>
+<i class="fa fa-lg fa-ticket" aria-hidden="true"></i>&nbsp; [Bilet Al](https://www.biletino.com/event/eventdetail/3262)

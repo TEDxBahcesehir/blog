@@ -16,12 +16,15 @@ image-sm: https://s30.postimg.org/skyafhvo1/Netafim_09_10_2015_480.jpg
 
 Sosyal medya hesaplarına aşağıdaki linklerden ulaşabilirsiniz.
 
--[Twitter]( https://twitter.com/le_petitprincee)
-
--[Instagram](https://www.instagram.com/le_petitprincee/)
-
--[Linkedin](https://www.linkedin.com/in/emre-baskan-2708374/)
+<a class="fa fa-lg fa-twitter"
+href="https://twitter.com/le_petitprincee" target="_blank" ></a>
+&nbsp;
+<a class="fa fa-lg fa-instagram"
+href="https://www.instagram.com/le_petitprincee/" target="_blank" ></a>
+&nbsp;
+<a class="fa fa-lg fa-linkedin"
+href="https://www.linkedin.com/in/emre-baskan-2708374/" target="_blank" ></a>
 
 Etkinlik için biletlere aşağıdaki linkten ulaşabilirsiniz.
 
-[Bilet Al](https://www.biletino.com/event/eventdetail/3262) <i class="fa fa-external-link" aria-hidden="true"></i>
+<i class="fa fa-lg fa-ticket" aria-hidden="true"></i>&nbsp; [Bilet Al](https://www.biletino.com/event/eventdetail/3262)

@@ -15,14 +15,18 @@ Operatör Doktor Banu Çiftçi Kadın Hastalıkları ve Doğum Uzmanıdır. 1993
 
 Sosyal medya hesaplarına aşağıdaki linklerden ulaşabilirsiniz.
 
--[Facebook](http://facebook.com/op.dr.banuciftci/)
-
--[Twitter](https://twitter.com/drbanuciftci?lang=en)
-
--[İnstagram](https://www.instagram.com/dr.banuciftci/)
-
--[Youtube](https://www.youtube.com/channel/UCWXz0gXvPpvXoEP-wDD0EbA)
+<a class="fa fa-lg fa-facebook"
+href="http://facebook.com/op.dr.banuciftci/" target="_blank" ></a>
+&nbsp;
+<a class="fa fa-lg fa-twitter"
+href="https://twitter.com/drbanuciftci?lang=en" target="_blank" ></a>
+&nbsp;
+<a class="fa fa-lg fa-instagram"
+href="https://www.instagram.com/dr.banuciftci/" target="_blank" ></a>
+&nbsp;
+<a class="fa fa-lg fa-youtube"
+href="https://www.youtube.com/channel/UCWXz0gXvPpvXoEP-wDD0EbA" target="_blank" ></a>
 
 Etkinlik için biletlere aşağıdaki linkten ulaşabilirsiniz.
 
-[Bilet Al](https://www.biletino.com/event/eventdetail/3262) <i class="fa fa-external-link" aria-hidden="true"></i>
+<i class="fa fa-lg fa-ticket" aria-hidden="true"></i>&nbsp; [Bilet Al](https://www.biletino.com/event/eventdetail/3262)
