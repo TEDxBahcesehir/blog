@@ -24,4 +24,4 @@ href="https://twitter.com/zeynepselvili?lang=en" target="_blank" ></a>
 
 Etkinlik için biletlere aşağıdaki linkten ulaşabilirsiniz.
 
-[Bilet Al](https://www.biletino.com/event/eventdetail/3262)&nbsp; <i class="fa fa-lg fa-ticket" aria-hidden="true"></i>
+<i class="fa fa-lg fa-ticket" aria-hidden="true"></i>&nbsp; [Bilet Al](https://www.biletino.com/event/eventdetail/3262)
