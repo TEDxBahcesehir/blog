@@ -6,8 +6,8 @@ author: "<a href=//twitter.com/ebrubudakk target=_blank>Ebru Budak</a>"
 categories:
   - Biyografi
 description:
-image: https://s20.postimg.org/j7wfi5zkt/go_ksel.png
-image-sm: https://s20.postimg.org/eaiux1xlp/gokselgursel_1394224893_45.jpg
+image: https://s20.postimg.org/y7os60ggt/goksell.jpg
+image-sm: https://s20.postimg.org/y7os60ggt/goksell.jpg
 ---
 
 ### TEDxBahcesehirUniversitySalon Etkinliği konuşmacımız Göksel Gürsel’i tanıyalım
@@ -24,7 +24,7 @@ Tasarım Düşüncesi’niAnadolu’daki genç sosyal girişimciler ile paylaşm
 
 **Sosyal medya hesaplarına aşağıdaki linklerden ulaşabilirsiniz.**
 
-<a class="fa fa-lg fa-facebook-square" href="https://www.facebook.com/gursel.goksel" target="_blank" ></a>
+<a class="fa fa-lg fa-facebook-square" href="https://www.facebook.com/gursel.goksel?fref=ts" target="_blank" ></a>
 &nbsp;
 <a class="fa fa-lg fa-twitter"
 href="https://twitter.com/GokselGursel" target="_blank" ></a>
