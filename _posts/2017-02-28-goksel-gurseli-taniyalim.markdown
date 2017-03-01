@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Göksel Gürsel'i Tanıyalım"
-date: 2017-03-01
+date: 2017-02-28
 author: "<a href=//twitter.com/ebrubudakk target=_blank>Ebru Budak</a>"
 categories:
   - Biyografi
