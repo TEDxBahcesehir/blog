@@ -20,7 +20,7 @@ image-sm: https://s20.postimg.org/y7os60ggt/goksell.jpg
 
 Yıllarca araştırdığı ve üzerinde çalıştığı Sosyal Girişimcilik, Tasarım, Teknoloji ve Bilim’i “Tasarım Odaklı Düşünme” (Design Thinking) çatısı altında birleştiren Göksel Gürsel, merkezine doğayı ve insanı alan sistemler, hizmet modelleri, eğitimler ve iş modelleri tasarlayarak, SOGLA’nın başkanlığını yürütüyor.
 
-Tasarım Düşüncesi’niAnadolu’daki genç sosyal girişimciler ile paylaşmayı ve bu yaklaşımı kurumlara ve eğitim sistemlerine entegre etmeyi hede:iyor.
+Tasarım Düşüncesi’niAnadolu’daki genç sosyal girişimciler ile paylaşmayı ve bu yaklaşımı kurumlara ve eğitim sistemlerine entegre etmeyi hedeliyor.
 
 **Sosyal medya hesaplarına aşağıdaki linklerden ulaşabilirsiniz.**
 
