@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Meriç Aydonat ile röportaj"
-date: 2017-07-01
+date: 2017-07-02
 author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orkun Kadıoğlu</a>"
 categories:
   - Hayat
 description:
-image: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/000/245/1ee/229c2ee.jpg
-image-sm: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/000/245/1ee/229c2ee.jpg
+image: https://s15.postimg.org/z7r8t6mkb/meric.jpg
+image-sm: https://s15.postimg.org/z7r8t6mkb/meric.jpg
 ---
 Selamlar!
 
