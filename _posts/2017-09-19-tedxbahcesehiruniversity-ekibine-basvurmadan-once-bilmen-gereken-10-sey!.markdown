@@ -28,8 +28,7 @@ Mutlaka Organizasyonun web sitesini girip geçmişini, misyonunu, vizyonunu, han
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-3. **TED, TEDx ve TEDxBahcesehirUniversity Konuşmalarını sürekli takip et
-t**
+3. **TED, TEDx ve TEDxBahcesehirUniversity Konuşmalarını sürekli takip et**
 
 Resmi TEDx Youtube Kanalına girerek Videoları izlemen ve yakından takip etmen mülakatta kendinden emin olmanı ve gelecek herhangi bir soru karşısında dolu bir cevap vermeni sağlar.
 
@@ -42,7 +41,7 @@ Unutma, vücut dilin kendini her zaman ele verir. Kendinden emin görünmeli ve 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-5. **'Mütevazi ol!**
+5. **Mütevazi ol!**
 
 Kendini abartmana hiç gerek yok: bırak karşındaki karar versin senin iyi olup olmadığına. ‘Arkadaşlarım beni ekip kurma konusunda en iyi ben olduğumu, grup içerisinde en iyi iletişimi sağlayan, en iş bitirici kişi olarak beni düşünüyor’ gibi her şeyi iyi gösteren ifadeler seni iyi yapmayacaktır. ‘Mütevazi olmaktan kimseye zarar gelmez! Mütevazi de hala harika olabilirsin.
 
