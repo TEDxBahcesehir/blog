@@ -44,7 +44,7 @@ Unutma, vücut dilin kendini her zaman ele verir. Kendinden emin görünmeli ve 
 
 5. **Mütevazi ol!**
 
-Kendini abartmana hiç gerek yok: Bırak karşındaki karar versin senin iyi olup olmadığına. ‘Arkadaşlarım beni ekip kurma konusunda en iyi ben olduğumu, grup içerisinde en iyi iletişimi sağlayan, en iş bitirici kişi olarak beni düşünüyor’ gibi her şeyi iyi gösteren ifadeler seni iyi yapmayacaktır. Mütevazi olmaktan kimseye zarar gelmez! Mütevazi de hala harika olabilirsin.
+Kendini abartmana hiç gerek yok: Bırak karşındaki karar versin senin iyi olup olmadığına. ‘Arkadaşlarım ekip kurma konusunda en iyisinin, grup içerisinde en iyi iletişimi sağlayan, en iş bitirici kişinin ben olduğumu söylerler’ gibi her şeyi iyi gösteren ifadeler seni iyi yapmayacaktır. Mütevazi olmaktan kimseye zarar gelmez! Mütevazi olarak da hala harika olabilirsin.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
