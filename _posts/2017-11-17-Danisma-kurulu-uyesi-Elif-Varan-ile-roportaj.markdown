@@ -37,7 +37,7 @@ Merhabalar sevgili TED-Severler!
 
 **Hepsini çok beğendiğinizi biliyoruz, yine de en sevdiğiniz/beğendiğiniz TEDxBahcesehirUniversity konuşması?**
 
-- Benim için en beğendiğim - belki de kendi önerim olduğundandır bilemiyorum:)- kesinlikle [Emre Başkan](https://www.youtube.com/watch?v=nL_UTYXNvyk). 
+- Benim için en beğendiğim - belki de kendi önerim olduğundandır bilemiyorum:)- kesinlikle [Emre Başkan](https://twitter.com/le_petitprincee). 
 
 &nbsp;&nbsp;&nbsp;
 
