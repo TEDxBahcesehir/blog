@@ -39,6 +39,10 @@ Merhabalar sevgili TED-Severler!
 
 - Benim için en beğendiğim - belki de kendi önerim olduğundandır bilemiyorum:)- kesinlikle [Emre Başkan](https://www.youtube.com/watch?v=nL_UTYXNvyk). 
 
+&nbsp;&nbsp;&nbsp;
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nL_UTYXNvyk" frameborder="0" allowfullscreen></iframe>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
