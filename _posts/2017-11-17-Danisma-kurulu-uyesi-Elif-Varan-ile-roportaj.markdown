@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Danışma Kurulu Üyesi Elif Varan ile Röportaj!"
+title: "Danışma Kurulu Üyemiz Elif Varan ile Röportaj!"
 date: 2017-11-17
 author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orkun Kadıoğlu</a>"
 categories:
