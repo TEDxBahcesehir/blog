@@ -40,7 +40,7 @@ Merhabalar sevgili TED-Severler!
 
 &nbsp;&nbsp;&nbsp;
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=9gNCrNxBHt8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed?v=9gNCrNxBHt8" frameborder="0" allowfullscreen></iframe>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
