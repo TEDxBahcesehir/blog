@@ -24,4 +24,4 @@ Geçen sene de yaptığımız gibi, bu sene de etkinlikten önce konuşmacılar�
 
 - Etkinlik için biletlere aşağıdaki linkten ulaşabilirsiniz.
 
-<i class="fa fa-lg fa-ticket" aria-hidden="true"></i>&nbsp; [Bilet Al](https://www.biletino.com/event/eventdetail/4477)
+<i class="fa fa-lg fa-ticket" aria-hidden="true"></i>&nbsp; <a href="https://www.biletino.com/event/eventdetail/4477" target="_blank"> Bilet Al</a>
