@@ -17,7 +17,7 @@ Geçen sene de yaptığımız gibi, bu sene de etkinlikten önce konuşmacılar�
 
 Şerif Kaynar!
 
-Şerif Kaynar Saint Joseph Lisesi'nden mezun olduktan sonra, İngiltere Bradford University'de Kimya Mühendisliğinden mezun oldu. Bundan sonra Londa'da City University'de MBA yapan Kaynar, Türkiye'nin en büyük beyin avcılarından biri. Korn Ferry'de hala Yönetim Kurulu Onursal Başkanı görevini sürdürüyor. Tabii tecrübesiyle artık bir insan sarrafı. Çünkü O'nun görevi şirketler için en iyi, en doğru insanı bulmak. Türkçe ve İngilizce'nin yanında Fransızca ve de Rusça konuşuyor. Bunun dışında, kendi ağzından söylemek gerekirse hoşlandığı şeyler:
+Şerif Kaynar Saint Joseph Lisesi'nden mezun olduktan sonra, İngiltere Bradford University'de Kimya Mühendisliğinden mezun oldu. Bundan sonra Londra'da City University'de MBA yapan Kaynar, Türkiye'nin en büyük beyin avcılarından biri. Korn Ferry'de hala Yönetim Kurulu Onursal Başkanı görevini sürdürüyor. Tabii tecrübesiyle artık bir insan sarrafı. Çünkü O'nun görevi şirketler için en iyi, en doğru insanı bulmak. Türkçe ve İngilizce'nin yanında Fransızca ve de Rusça konuşuyor. Bunun dışında, kendi ağzından söylemek gerekirse hoşlandığı şeyler:
 Çok rahat bir yatak, İstanbul film festivalleri, Peynirin her çeşidi, Cumartesi geceleri evde vakit geçirmek, Çağdaş sanat, tüm hayvanlar ve masa etrafı sohbetleri...
 
 &nbsp;
