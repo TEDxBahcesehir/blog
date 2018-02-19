@@ -29,7 +29,7 @@ Baki, hafta içi her gün CNN TÜRK'te ekrana gelen “Günün Ekonomisi” ve �
 Ebru Baki, ''Bu mesleğe çok saygın ve başarılı isimlerle adım attım. Onların yanında yetiştim ve yetişiyorum'' diyor. Yarı dönemli olarak aldığı konservatuar eğitimini ise hayatı boyunca her alanda en büyük yardımcı olarak görüyor. Baki'ye göre dünyanın en güzel sporu binicilik; piyano ise onun için bir tutku.
 
 Bir sonraki blog yazımızda görüşmek üzere.
-TED(x)'li kalın!
+TED<sup>x</sup>' li kalın!
 &nbsp;
 
 - Etkinlik için biletlere aşağıdaki linkten ulaşabilirsiniz.
