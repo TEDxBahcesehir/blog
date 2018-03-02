@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orku
 categories:
   - Biyografi
 description:
-image: https://s20.postimg.org/eqge40skd/image.png
-image-sm: https://s20.postimg.org/eqge40skd/image.png
+image: https://s20.postimg.org/awrj8dnot/image.jpg
+image-sm: https://s20.postimg.org/awrj8dnot/image.jpg
 ---
 ### Dilara kimdir?
 
