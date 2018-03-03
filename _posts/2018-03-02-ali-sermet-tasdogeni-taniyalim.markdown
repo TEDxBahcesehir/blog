@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ali Samet Taşdöğen'i Tanıyalım"
+title: "Ali Sermet Taşdöğen'i Tanıyalım"
 date: 2018-03-02
 author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orkun Kadıoğlu</a>"
 categories:
