@@ -9,7 +9,7 @@ description:
 image: https://s20.postimg.org/awrj8dnot/image.jpg
 image-sm: https://s20.postimg.org/awrj8dnot/image.jpg
 ---
-### Dilara kimdir?
+### Ali Sermet Taşdöğen kimdir?
 
 Selamlar yeniden TED(x)seveler!
 
