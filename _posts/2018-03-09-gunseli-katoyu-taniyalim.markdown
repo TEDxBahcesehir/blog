@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Günseli Kato'yu Tanıyalım"
-date: 2018-03-11
+date: 2018-03-09
 author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orkun Kadıoğlu</a>"
 categories:
   - Biyografi
