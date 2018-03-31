@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ceyhun Yılmaz'ı Tanıyalım"
-date: 2018-03-29
+date: 2018-03-31
 author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orkun Kadıoğlu</a>"
 categories:
   - Biyografi
