@@ -58,7 +58,7 @@ Aynı yıl “Yalnızsam Düzelt” isimli şiir kitabını yayımladı.<br>
 <br>
 2015 ten itibaren Sosyal Medya Nasıl Kullanılmaz isimli gösterisi ile 160 okul gezdi.<br>
 <br>
-2018’te Best Fm’de yayın hayatına geri döndü.<br>
+2018’de Best Fm’de yayın hayatına geri döndü.<br>
 
 &nbsp;
 
