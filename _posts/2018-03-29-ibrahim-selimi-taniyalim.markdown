@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orku
 categories:
   - Biyografi
 description:
-image: https://s20.postimg.org/grt9lz9bx/ibrahimselim.png
-image-sm: https://s20.postimg.org/grt9lz9bx/ibrahimselim.png
+image: https://s20.postimg.cc/grt9lz9bx/ibrahimselim.png
+image-sm: https://s20.postimg.cc/grt9lz9bx/ibrahimselim.png
 ---
 ### İbrahim Selim kimdir?
 

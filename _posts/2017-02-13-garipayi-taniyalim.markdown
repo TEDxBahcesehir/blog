@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orku
 categories:
   - Biyografi
 description:
-image: https://s27.postimg.org/8y6y7u803/3_Y9_A3066.jpg
-image-sm: https://s27.postimg.org/8y6y7u803/3_Y9_A3066.jpg
+image: https://s27.postimg.cc/8y6y7u803/3_Y9_A3066.jpg
+image-sm: https://s27.postimg.cc/8y6y7u803/3_Y9_A3066.jpg
 ---
 ### Garip Ay kimdir?
 

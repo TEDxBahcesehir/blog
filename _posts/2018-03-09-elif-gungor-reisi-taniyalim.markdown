@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orku
 categories:
   - Biyografi
 description:
-image: https://s20.postimg.org/bjagevsq5/elifreis.jpg
-image-sm: https://s20.postimg.org/bjagevsq5/elifreis.jpg
+image: https://s20.postimg.cc/bjagevsq5/elifreis.jpg
+image-sm: https://s20.postimg.cc/bjagevsq5/elifreis.jpg
 ---
 ### Elif Güngör Reis kimdir?
 

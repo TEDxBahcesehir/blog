@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orku
 categories:
   - Biyografi
 description:
-image: https://s29.postimg.org/flxrgn8zr/zeynep_selvili.jpg
-image-sm: https://s29.postimg.org/flxrgn8zr/zeynep_selvili.jpg
+image: https://s29.postimg.cc/flxrgn8zr/zeynep_selvili.jpg
+image-sm: https://s29.postimg.cc/flxrgn8zr/zeynep_selvili.jpg
 ---
 ### Zeynep Selvili kimdir?
 

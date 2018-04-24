@@ -6,8 +6,8 @@ author: "<a href=https://www.linkedin.com/in/mertcan96/ target=_blank>Mert Can</
 categories:
   - Hayat
 description:
-image: https://s20.postimg.org/v0zupuwd9/samuel-zeller-4138.jpg
-image-sm: https://s20.postimg.org/v0zupuwd9/samuel-zeller-4138.jpg
+image: https://s20.postimg.cc/v0zupuwd9/samuel-zeller-4138.jpg
+image-sm: https://s20.postimg.cc/v0zupuwd9/samuel-zeller-4138.jpg
 ---
 Merhabalar!
 

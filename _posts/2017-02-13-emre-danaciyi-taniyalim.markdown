@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orku
 categories:
   - Biyografi
 description:
-image: https://s23.postimg.org/elp9od6l7/Emre_Danaci.jpg
-image-sm: https://s23.postimg.org/elp9od6l7/Emre_Danaci.jpg
+image: https://s23.postimg.cc/elp9od6l7/Emre_Danaci.jpg
+image-sm: https://s23.postimg.cc/elp9od6l7/Emre_Danaci.jpg
 ---
 ### Emre Danacı kimdir?
 

@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orku
 categories:
   - Biyografi
 description:
-image: https://s20.postimg.org/almj26grh/IMG_12546.png
-image-sm: https://s20.postimg.org/almj26grh/IMG_12546.png
+image: https://s20.postimg.cc/almj26grh/IMG_12546.png
+image-sm: https://s20.postimg.cc/almj26grh/IMG_12546.png
 ---
 ### Günseli Kato kimdir?
 

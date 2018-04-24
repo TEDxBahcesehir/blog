@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/ahmetasliyuce/en target=_blank>Ahmet Aslı
 categories:
   - Hayat
 description:
-image: https://s20.postimg.org/3wzqfg2ul/subtext.jpg
-image-sm: https://s20.postimg.org/3wzqfg2ul/subtext.jpg
+image: https://s20.postimg.cc/3wzqfg2ul/subtext.jpg
+image-sm: https://s20.postimg.cc/3wzqfg2ul/subtext.jpg
 ---
 ### TEDxBahcesehirUniversity Konuşmaları İşitme Engelli Dostu
 

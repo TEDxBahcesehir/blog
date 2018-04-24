@@ -6,8 +6,8 @@ author: "<a href=//linkedin.com/in/hande-tokay-364094112 target=_blank>Hande Tok
 categories:
   - Biyografi
 description:
-image: //s20.postimg.org/t1sc2y3q5/IMG_6986.jpg
-image-sm: //s20.postimg.org/t1sc2y3q5/IMG_6986.jpg
+image: //s20.postimg.cc/t1sc2y3q5/IMG_6986.jpg
+image-sm: //s20.postimg.cc/t1sc2y3q5/IMG_6986.jpg
 ---
 
 ### İbrahim Selim Kimdir?

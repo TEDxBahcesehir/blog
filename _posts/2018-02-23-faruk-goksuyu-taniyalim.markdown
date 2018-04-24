@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orku
 categories:
   - Biyografi
 description:
-image: https://s20.postimg.org/5b00jwotp/image.png
-image-sm: https://s20.postimg.org/5b00jwotp/image.png
+image: https://s20.postimg.cc/5b00jwotp/image.png
+image-sm: https://s20.postimg.cc/5b00jwotp/image.png
 ---
 ### Faruk Göksu kimdir?
 

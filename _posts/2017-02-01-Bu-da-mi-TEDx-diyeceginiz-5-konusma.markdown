@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orku
 categories:
   - Hayat
 description:
-image: https://s30.postimg.org/aw474r30x/TEDx_Talks_Twitter_Logo_1.png
-image-sm: https://s30.postimg.org/aw474r30x/TEDx_Talks_Twitter_Logo_1.png
+image: https://s30.postimg.cc/aw474r30x/TEDx_Talks_Twitter_Logo_1.png
+image-sm: https://s30.postimg.cc/aw474r30x/TEDx_Talks_Twitter_Logo_1.png
 ---
 ### Bu da mı TEDx?
 

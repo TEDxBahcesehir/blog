@@ -6,8 +6,8 @@ author: "<a href=https://twitter.com/SILaaU target=_blank>Sıla Uyar</a>"
 categories:
   - Hayat
 description:
-image: https://s2.postimg.org/7o79twzah/brandon-morgan-15363.jpg
-image-sm: https://s2.postimg.org/7o79twzah/brandon-morgan-15363.jpg
+image: https://s2.postimg.cc/7o79twzah/brandon-morgan-15363.jpg
+image-sm: https://s2.postimg.cc/7o79twzah/brandon-morgan-15363.jpg
 ---
 Merhabalar!
 

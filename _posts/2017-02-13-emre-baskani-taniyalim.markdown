@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orku
 categories:
   - Biyografi
 description:
-image: https://s30.postimg.org/skyafhvo1/Netafim_09_10_2015_480.jpg
-image-sm: https://s30.postimg.org/skyafhvo1/Netafim_09_10_2015_480.jpg
+image: https://s30.postimg.cc/skyafhvo1/Netafim_09_10_2015_480.jpg
+image-sm: https://s30.postimg.cc/skyafhvo1/Netafim_09_10_2015_480.jpg
 ---
 ### Emre Başkan kimdir?
 

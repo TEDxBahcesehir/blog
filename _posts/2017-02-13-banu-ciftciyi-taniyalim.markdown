@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orku
 categories:
   - Biyografi
 description:
-image: https://s27.postimg.org/7sammacdv/banuciftci.jpg
-image-sm: https://s27.postimg.org/7sammacdv/banuciftci.jpg
+image: https://s27.postimg.cc/7sammacdv/banuciftci.jpg
+image-sm: https://s27.postimg.cc/7sammacdv/banuciftci.jpg
 ---
 ### Banu Çiftçi kimdir?
 

@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/oğuzhan-karan-84b643b9 target=_blank>Oğu
 categories:
   - Ekonomi
 description:
-image: https://s30.postimg.org/k66m3sob5/PFSImage_0_0_860x484.jpg
-image-sm: https://s30.postimg.org/4cztnuf4x/PFSImage_0_0_860x484.jpg
+image: https://s30.postimg.cc/k66m3sob5/PFSImage_0_0_860x484.jpg
+image-sm: https://s30.postimg.cc/4cztnuf4x/PFSImage_0_0_860x484.jpg
 ---
 ### Ekonomi ve Finans İçerikli 10 Konuşma
 İşe veya okula giderken aldığımız kahveden, öğle arasında yediğimiz yemeğe kadar para hayatımızın her anında yer alıyor. Peki para hayatımızın her anına bu kadar dahil olmuşken biz paranın oluşturduğu mevcut ekonomiyi ve finansal piyasaları ne kadar iyi biliyoruz ?

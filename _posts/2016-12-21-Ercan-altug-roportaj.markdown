@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orku
 categories:
   - Hayat
 description:
-image: https://s24.postimg.org/e0yfx17kl/DSC_0151.jpg
-image-sm: https://s24.postimg.org/e0yfx17kl/DSC_0151.jpg
+image: https://s24.postimg.cc/e0yfx17kl/DSC_0151.jpg
+image-sm: https://s24.postimg.cc/e0yfx17kl/DSC_0151.jpg
 ---
 Selamlar! Blogumuza yeni bir konsept getirdik. Geçen sene, etkinliğe katıldınız, konuşmacılarımız canlı olarak izlediniz, veya Youtube üzerinden izlediniz yada henüz izlemediniz. Her durumda, konuşmacıları daha yakından tanımak ve onların bu konuşmayı yaparken akıllarından geçenlerinden tutun en sevdikleri sebzelere kadar, merak ettiklerinizi öğrenmek için bir, onlarla bir röportaj gerçekleştirdik. İlk röportajımız, eğlenceli sunumuyla akıllarda kalan Ercan hocamız, yani Ercan Altuğ Yılmaz. Röportajların devamı için takipte kalın TEDxeverler! Ayrıca, Ercan hocanın konuşmasını da en alttaki linkten izleyebilirsiniz.
 

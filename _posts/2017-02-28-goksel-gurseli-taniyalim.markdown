@@ -6,8 +6,8 @@ author: "<a href=//twitter.com/ebrubudakk target=_blank>Ebru Budak</a>"
 categories:
   - Biyografi
 description:
-image: https://s20.postimg.org/y7os60ggt/goksell.jpg
-image-sm: https://s20.postimg.org/y7os60ggt/goksell.jpg
+image: https://s20.postimg.cc/y7os60ggt/goksell.jpg
+image-sm: https://s20.postimg.cc/y7os60ggt/goksell.jpg
 ---
 
 ### TEDxBahcesehirUniversitySalon Etkinliği konuşmacımız Göksel Gürsel’i tanıyalım

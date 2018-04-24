@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orku
 categories:
   - Biyografi
 description:
-image: https://s20.postimg.org/xoenxh871/ozan.jpg
-image-sm: https://s20.postimg.org/xoenxh871/ozan.jpg
+image: https://s20.postimg.cc/xoenxh871/ozan.jpg
+image-sm: https://s20.postimg.cc/xoenxh871/ozan.jpg
 ---
 ### Ozan Bingöl kimdir?
 

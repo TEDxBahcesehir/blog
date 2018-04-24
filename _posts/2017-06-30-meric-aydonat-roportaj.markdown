@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orku
 categories:
   - Hayat
 description:
-image: https://s23.postimg.org/gqbe7vm3f/meric_3.jpg
-image-sm: https://s23.postimg.org/gqbe7vm3f/meric_3.jpg
+image: https://s23.postimg.cc/gqbe7vm3f/meric_3.jpg
+image-sm: https://s23.postimg.cc/gqbe7vm3f/meric_3.jpg
 ---
 Selamlar!
 

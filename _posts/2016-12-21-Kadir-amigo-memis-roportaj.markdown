@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orku
 categories:
   - Hayat
 description:
-image: https://s23.postimg.org/wj3qopu4r/image.png
-image-sm: https://s29.postimg.org/wnc19mv3r/image.png
+image: https://s23.postimg.cc/wj3qopu4r/image.png
+image-sm: https://s29.postimg.cc/wnc19mv3r/image.png
 ---
 
 Selamlar yeniden! Blog'umuzda artık yeni bir konsept olduğunu zaten biliyorsunuz.Sıradaki röportaj, hem konuşmasıyla hem de dansıyla sahneyi dolduran, sizi, bizi, seyircileri kısacası herkesi heyecanlandıran ve de kendi alanında bir ilke imza atmış abimiz: Kadir Amigo Memiş. İzleyenler, duyanlar zaten bilirler Kadir abiyi. Bunlardan hiçbirini yapmayanlar da aşağıdaki sorularla O'nun nasıl biri olup, nasıl biri olmadığını görebilir. Keyifli okumalar! Bir sonraki röportajda görüşmek üzere!

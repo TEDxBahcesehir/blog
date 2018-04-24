@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/ahmetasliyuce/en target=_blank>Ahmet Aslı
 categories:
   - Hayat
 description:
-image: https://s29.postimg.org/b46kqf3h3/Tedx_jpg.png
-image-sm: https://s29.postimg.org/b46kqf3h3/Tedx_jpg.png
+image: https://s29.postimg.cc/b46kqf3h3/Tedx_jpg.png
+image-sm: https://s29.postimg.cc/b46kqf3h3/Tedx_jpg.png
 ---
 ### TED Konuşmaları düzenlenmeye başladığından beri sayısız insan "Paylaşmaya değer fikirler" sloganından aldığı cesaretle düşüncelerini ve fikirlerini bizimle paylaştı. Çoğumuz daha önce bir TED konuşması dinlemiş ve muhtemelen o konuşmadan kendimize bir pay çıkarmışızdır. Peki aslında bir kısaltma olan TED'in ne anlama geldiğini biliyor muyuz? Sizler için seçtiğimiz üç farklı TED konuşmasıyla TED'in hangi üç kelimenin kısaltması olduğunu hiç aklınızdan çıkmayacak bir şekilde öğrenebilirsiniz.
 

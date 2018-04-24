@@ -6,8 +6,8 @@ author: "<a href=//linkedin.com/in/hande-tokay-364094112 target=_blank>Hande Tok
 categories:
   - Biyografi
 description:
-image: //s1.postimg.org/nv4y6g673/Whats_App_Image_2017_02_21_at_19_47_46.jpg
-image-sm: //s1.postimg.org/nv4y6g673/Whats_App_Image_2017_02_21_at_19_47_46.jpg
+image: //s1.postimg.cc/nv4y6g673/Whats_App_Image_2017_02_21_at_19_47_46.jpg
+image-sm: //s1.postimg.cc/nv4y6g673/Whats_App_Image_2017_02_21_at_19_47_46.jpg
 ---
 ### Mehmet Ali Makbuloğlu kimdir?
 

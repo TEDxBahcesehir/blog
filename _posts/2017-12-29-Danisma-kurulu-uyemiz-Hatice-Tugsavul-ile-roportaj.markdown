@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orku
 categories:
   - Hayat
 description:
-image: https://s20.postimg.org/62co4n7b1/hatice.jpg
-image-sm: https://s20.postimg.org/62co4n7b1/hatice.jpg
+image: https://s20.postimg.cc/62co4n7b1/hatice.jpg
+image-sm: https://s20.postimg.cc/62co4n7b1/hatice.jpg
 ---
 Merhabalar sevgili TED-Severler!
 

@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orku
 categories:
   - Biyografi
 description:
-image: https://s20.postimg.org/5elpa3rrx/tal-garih.jpg
-image-sm: https://s20.postimg.org/5elpa3rrx/tal-garih.jpg
+image: https://s20.postimg.cc/5elpa3rrx/tal-garih.jpg
+image-sm: https://s20.postimg.cc/5elpa3rrx/tal-garih.jpg
 ---
 ### Tal Garih kimdir?
 

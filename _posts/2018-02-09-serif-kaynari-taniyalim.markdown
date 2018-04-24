@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orku
 categories:
   - Biyografi
 description:
-image: https://s20.postimg.org/jhkl2mczh/serif-kaynar.jpg
-image-sm: https://s20.postimg.org/jhkl2mczh/serif-kaynar.jpg
+image: https://s20.postimg.cc/jhkl2mczh/serif-kaynar.jpg
+image-sm: https://s20.postimg.cc/jhkl2mczh/serif-kaynar.jpg
 ---
 ### Şerif Kaynar kimdir?
 

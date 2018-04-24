@@ -6,8 +6,8 @@ author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orku
 categories:
   - Biyografi
 description:
-image: https://s20.postimg.org/6evpn7pvx/NS2.jpg
-image-sm: https://s20.postimg.org/6evpn7pvx/NS2.jpg
+image: https://s20.postimg.cc/6evpn7pvx/NS2.jpg
+image-sm: https://s20.postimg.cc/6evpn7pvx/NS2.jpg
 ---
 ### Nevzat Sayın kimdir?
 Merhabalar yeniden!
