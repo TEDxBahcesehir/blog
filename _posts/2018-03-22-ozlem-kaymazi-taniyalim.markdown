@@ -11,6 +11,10 @@ image-sm: https://s20.postimg.cc/w9rafgu8d/ozlem-kaymaz.jpg
 ---
 ### Özlem Kaymaz kimdir?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XHFs1lIPKHw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+&nbsp;
+
 Selamlar TED(x)siz duramayanlar!
 
 15 Nisan Pazar gününe, yani TEDxBahcesehirUniversity'e 1 aydan az kaldı! Bu arada biletler hızla tükeniyor, bundan ötürü eğer bizlere sahnede paylaşmaya değer fikirlerini anlatacak, kendi hikayelerine ortak edecek konuşmacılarımızı izlemek istiyorsanız biletlerinizi almak için geç kalmayın. Şunu da hatırlatmak da fayda var:
