@@ -15,14 +15,6 @@ image-sm: https://s20.postimg.cc/w9rafgu8d/ozlem-kaymaz.jpg
 
 &nbsp;
 
-Selamlar TED(x)siz duramayanlar!
-
-15 Nisan Pazar gününe, yani TEDxBahcesehirUniversity'e 1 aydan az kaldı! Bu arada biletler hızla tükeniyor, bundan ötürü eğer bizlere sahnede paylaşmaya değer fikirlerini anlatacak, kendi hikayelerine ortak edecek konuşmacılarımızı izlemek istiyorsanız biletlerinizi almak için geç kalmayın. Şunu da hatırlatmak da fayda var:
-Bu etkinlik sadece konuşmacıları sahnede göreceğiniz bir yer değil! Yani aralarda onlarla fuayede karşılaşabilir ve onlarla sohbet de edebilirsiniz.
-
-Bugün size tanıtacağımız konuşmacımızı zaten çoktan tanıyor olabilirsiniz, özellike yaşça biraz daha büyük olanlar...
-Biz yine de size O'nu tanıtacağız, artık sebeplerini biliyorsunuz.
-
 Karşınızda <b>Özlem Kaymaz!</b>
 
 
