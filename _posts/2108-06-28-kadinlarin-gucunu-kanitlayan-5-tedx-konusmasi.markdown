@@ -9,7 +9,7 @@ description:
 image: https://images.unsplash.com/photo-1522099763795-86dba0ff3339?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1b14534c9fbf77d12375000ca26e73ab&auto=format&fit=crop&w=634&q=80
 image-sm: https://images.unsplash.com/photo-1522099763795-86dba0ff3339?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1b14534c9fbf77d12375000ca26e73ab&auto=format&fit=crop&w=634&q=80
 ---
-Selamlar değerli TEDxBahcesehirUniversity-BLOG okuyucuları,
+Herkese merhaba,
 
 Kadınların gücünü anlatmaya kelimeler yetmez. Bazı kadınlar da kendi hikayelerini kendileri yazıyorlar. İşte muhteşem hikayelerini TEDx sahnesinde anlatmış olan 5 güçlü kadın
 
