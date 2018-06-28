@@ -2,7 +2,7 @@
 layout: post
 title: "Kadınların gücünü kanıtlayan 5 TEDx konuşması"
 date: 2018-06-28
-author: "<a href=https://twitter.com/SILaaU target=_blank>Batuhan Çevik</a>"
+author: "<a href=https://twitter.com/batuhancevik?lang=tr target=_blank>Batuhan Çevik</a>"
 categories:
   - Hayat
 description:
